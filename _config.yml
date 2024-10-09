@@ -1,8 +1,8 @@
-title: Nighthawk Pages 
+title: JITS Dev Page
 description: "Class of 2025"
-owner_name: John Mortensen
-github_username: nighthawkcoders
-github_repo: "portfolio_2025" 
+owner_name: Srijan Atti
+github_username: srijdude3416
+github_repo: "JITS_Dev_Portfolio_2025" 
 baseurl: "/portfolio_2025"
 future: true
 remote_theme: jekyll/minima
